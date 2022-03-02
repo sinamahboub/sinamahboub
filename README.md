@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I`m _Sina. Mhboob_
 
-<!--
-**sinamahboub/sinamahboub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bio**
 
-Here are some ideas to get you started:
+My name is Cena.
+I am 15 years old and I live in Iran.
+I am interested in the field of programming and I pursue it purposefully and I am learning to learn somet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--
+
+**Tools**
+
+[![Python](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-22-11_main_6ywk.png)](https://www.python.org/)
+[![Php](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-22-14_main_b6ft.png)](https://www.php.net/)
+[![MySql](https://s6.uupload.ir/files/screenshot_2022-03-02_at_19-31-37_tahadostifam_-_overview_yq6w.png)](https://www.mysql.com/)
+[![Js](https://s6.uupload.ir/files/screenshot_2022-03-02_at_19-31-20_tahadostifam_-_overview_prkx.png)](https://www.javascript.com/)
+
+--
+
+**Social Media**
+
+[![Instagram](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-28-35_main_x5ib.png)](https://www.instagram.com/code._.writer/)
+[![Telegram](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-28-38_main_pmw5.png)](https://t.me/Sinam217/)
+[![Whatsapp](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-28-40_main_tkqi.png)](https://wa.me/+989940665667/)
