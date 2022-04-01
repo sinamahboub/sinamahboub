@@ -1,6 +1,6 @@
 # Hi, I`m _Sina. Mhboob_
 
-**Bio**
+###### Bio
 
 My name is Cena.
 I am 15 years old and I live in Iran.
@@ -8,17 +8,15 @@ I am interested in the field of programming and I pursue it purposefully and I a
 
 --
 
-**Tools**
+###### Tools
 
-[![Python](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-22-11_main_6ywk.png)](https://www.python.org/)
-[![Php](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-22-14_main_b6ft.png)](https://www.php.net/)
-[![Js](https://s6.uupload.ir/files/screenshot_2022-03-02_at_19-31-20_tahadostifam_-_overview_prkx.png)](https://www.javascript.com/)
+[![Python](https://s6.uupload.ir/files/screenshot_2022-04-01_at_23-33-22_tahadostifam_-_overview_eyfj.png)](https://www.python.org/)
 [![MySql](https://s6.uupload.ir/files/screenshot_2022-03-02_at_19-31-37_tahadostifam_-_overview_yq6w.png)](https://www.mysql.com/)
 
 --
 
-**Social Media**
+###### Social Media
 
 [![Instagram](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-28-35_main_x5ib.png)](https://www.instagram.com/code._.writer/)
-[![Telegram](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-28-38_main_pmw5.png)](https://t.me/Sinam217/)
+[![Telegram](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-28-38_main_pmw5.png)](https://t.me/khaz_shode_palasht/)
 [![Whatsapp](https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-28-40_main_tkqi.png)](https://wa.me/+989940665667/)
