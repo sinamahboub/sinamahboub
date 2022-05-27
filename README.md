@@ -19,9 +19,6 @@ My name is Sena. I am 15 years old and I live in [**Iran**](https://en.wikipedia
 <a href="https://ruby-lang.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" with="40" height="40"/>
 </a>
-<a href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" with="40" height="40"/>
-</a>
 <a href="https://mysql.com/">
     <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" with="40" height="40"/>
 </a>
