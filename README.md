@@ -10,6 +10,9 @@ My name is Sena. I am 15 years old and I live in [**Iran**](https://en.wikipedia
 <a href="https://www.typescriptlang.org/">
     <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" with="40" height="40"/>
 </a>
+<a href="https://www.python.org/">
+    <img src="https://s6.uupload.ir/files/python-logo_eys4.png" with="40" height="40"/>
+</a>
 <a href="https://go.dev">
     <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" with="40" height="40"/>
 </a>
