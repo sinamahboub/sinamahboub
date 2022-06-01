@@ -30,7 +30,7 @@ My name is Sina. I am 15 years old and I live in [**Iran**](https://en.wikipedia
 </a>
 
 ### My Desktop
-![open suse linux](https://s6.uupload.ir/files/screenshot_from_2022-05-27_16-58-48_f6an.png)
+![open suse linux](https://github.com/sinamahboub/sinamahboub/blob/promyncity/Screenshot%20from%202022-06-01%2022-28-27.png)
 
 ## Social Media  
 <a href="https://instagram.com/sinamahboub_official/">
