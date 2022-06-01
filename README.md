@@ -1,7 +1,7 @@
 # Hi All, Im SiNa
 
 ### Bio
-My name is Sena. I am 15 years old and I live in [**Iran**](https://en.wikipedia.org/wiki/Iran). I am interested in the field of programming and I pursue it purposefully and I am learning to learn somet.
+My name is Sina. I am 15 years old and I live in [**Iran**](https://en.wikipedia.org/wiki/Iran). I am interested in the field of programming and I pursue it purposefully and I am learning to learn somet.
 
 ### Tools
 <a href="https://www.javascript.com">
