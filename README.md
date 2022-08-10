@@ -21,28 +21,28 @@
     src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/JavaScript.svg"
     alt="javaScript"
     title="javaScript"
-    width="230px"
-    height="230px"
+    width="200px"
+    height="200px"
   />
   <img
     src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/TypeScript.svg"
     alt="typeScript"
     title="typeScript"
-    width="230px"
-    height="230px"
+    width="200px"
+    height="200px"
   />
   <img
     src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/React.svg"
     alt="react"
     title="react"
-    width="230px"
-    height="230px"
+    width="200px"
+    height="200px"
   />
   <img
     src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/NodeJS.svg"
     alt="nodeJs"
     title="nodeJs"
-    width="230px"
-    height="230px"
+    width="200px"
+    height="200px"
   />
 </div>
