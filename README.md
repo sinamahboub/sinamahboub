@@ -1,45 +1,15 @@
-# Hi All, Im SiNa
-
-### Bio
-My name is Sina. I am 15 years old and I live in [**Iran**](https://en.wikipedia.org/wiki/Iran). I am interested in the field of programming and I pursue it purposefully and I am learning to learn somet.
-
-### Tools
-<a href="https://www.javascript.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" with="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/">
-    <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" with="40" height="40"/>
-</a>
-<a href="https://www.python.org/">
-    <img src="https://s6.uupload.ir/files/python-logo_eys4.png" with="40" height="40"/>
-</a>
-<a href="https://go.dev">
-    <img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" with="40" height="40"/>
-</a>
-<a href="https://github.com/gin-gonic/gin">
-    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" with="40" height="40"/>
-</a>
-<a href="https://ruby-lang.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" with="40" height="40"/>
-</a>
-<a href="https://mysql.com/">
-    <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" with="40" height="40"/>
-</a>
-<a href="https://sass-lang.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" with="40" height="40"/>
-</a>
-
-### My Desktop
-![ubuntu linux](https://s6.uupload.ir/files/screenshot_from_2022-06-23_11-33-19_fdrj.png)
-
-## Social Media  
-<a href="https://instagram.com/sinamahboub_official/">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" alt="instagram" height="35" width="35" />
-</a>
-<a href="https://wa.me/+989940665667">
-    <img align="center" src="https://logosarchive.com/wp-content/uploads/2021/07/Whatsapp-logo-icon-transparent.png" alt="whatsapp" height="35" width="35" />
-</a>
-<a href="https://t.me/Sina_Mahboub/">
-    <img align="center" src="https://s6.uupload.ir/files/screenshot_2022-03-02_at_20-28-38_main_pmw5.png" alt="telegram" height="35" width="35" />
-</a>
-
+<h1>Hi All, Im 🆂🅸🅽🅰 🅼🅰🅷🅱🅾🆄🅱</h1>
+<br />
+<h2>❚█══Ｂｉｏ══█❚</h2>
+<p>
+  𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑺𝒊𝒏𝒂. 𝑰 𝒂𝒎 𝟏𝟓 𝒚𝒆𝒂𝒓𝒔 𝒐𝒍𝒅 𝒂𝒏𝒅 𝑰 𝒍𝒊𝒗𝒆 𝒊𝒏
+  <a href="https://en.wikipedia.org/wiki/Iran">𝑰𝒓𝒂𝒏</a>. 𝑰 𝒂𝒎 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝒕𝒉𝒆
+  𝒇𝒊𝒆𝒍𝒅 𝒐𝒇 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒂𝒏𝒅 𝑰 𝒑𝒖𝒓𝒔𝒖𝒆 𝒊𝒕 𝒑𝒖𝒓𝒑𝒐𝒔𝒆𝒇𝒖𝒍𝒍𝒚 𝒂𝒏𝒅 𝑰 𝒂𝒎 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒕𝒐 𝒍𝒆𝒂𝒓𝒏
+  𝒔𝒐𝒎𝒆𝒕.
+</p>
+<br />
+<h2>█▓▒▒░░░Ｍｙ Ｄｅｓｋｔｏｐ░░░▒▒▓█</h2>
+<img
+  src="https://s6.uupload.ir/files/screenshot_from_2022-06-23_11-33-19_fdrj.png"
+  alt="ubuntu linux"
+/>
