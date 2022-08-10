@@ -17,7 +17,17 @@
 <br />
 <h3>(ﾟ◥益◤ﾟ) M̎y̼ͣ͒ͦ ̳F͓̙̱̾̑ȧ̩̯͈͉́̂v̤̫̮͚̫ͧor̞̜̟̀͊̓i̪͚͂̉͑̀̅t̮͇̻̻eͩͦ͑͂ͪ  (ʘ言ʘ╬)</h3>
 <img
-  src=""
+  src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/JavaScript.svg"
   alt="javaScript"
   title="javaScript"
+/>
+<img
+  src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/React.svg"
+  alt="react"
+  title="react"
+/>
+<img
+  src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/NodeJS.svg"
+  alt="nodeJs"
+  title="nodeJs"
 />
