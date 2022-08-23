@@ -10,7 +10,7 @@
 <br />
 <h3>█▓▒▒░░░Ｍｙ Ｄｅｓｋｔｏｐ░░░▒▒▓█</h3>
 <img
-  src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/sinaMahboubDesktop.png"
+  src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/sinaMahboubDesktop2.png"
   alt="ubuntu linux"
   title="ubuntu linux"
 />
