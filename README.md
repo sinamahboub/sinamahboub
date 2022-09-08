@@ -10,7 +10,7 @@
 <br />
 <h3>█▓▒▒░░░Ｍｙ Ｄｅｓｋｔｏｐ░░░▒▒▓█</h3>
 <img
-  src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/sinaMahboubDesktop2.png"
+  src="https://github.com/sinamahboub/sinamahboub/blob/main/sinaMahboubDesktop2.png"
   alt="ubuntu linux"
   title="ubuntu linux"
 />
@@ -18,28 +18,28 @@
 <h3>(ﾟ◥益◤ﾟ) M̎y̼ͣ͒ͦ ̳F͓̙̱̾̑ȧ̩̯͈͉́̂v̤̫̮͚̫ͧor̞̜̟̀͊̓i̪͚͂̉͑̀̅t̮͇̻̻eͩͦ͑͂ͪ (ʘ言ʘ╬)</h3>
 <div>
   <img
-    src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/JavaScript.svg"
+    src="https://github.com/sinamahboub/sinamahboub/blob/main/JavaScript.svg"
     alt="javaScript"
     title="javaScript"
     width="200px"
     height="200px"
   />
   <img
-    src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/TypeScript.svg"
+    src="https://github.com/sinamahboub/sinamahboub/blob/main/TypeScript.svg"
     alt="typeScript"
     title="typeScript"
     width="200px"
     height="200px"
   />
   <img
-    src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/React.svg"
+    src="https://github.com/sinamahboub/sinamahboub/blob/main/React.svg"
     alt="react"
     title="react"
     width="200px"
     height="200px"
   />
   <img
-    src="https://github.com/sinamahboub/sinamahboub/blob/promyncity/NodeJS.svg"
+    src="https://github.com/sinamahboub/sinamahboub/blob/main/NodeJS.svg"
     alt="nodeJs"
     title="nodeJs"
     width="200px"
