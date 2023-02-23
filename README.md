@@ -2,7 +2,7 @@
   <h1>Hi All, Im sinaMahboub</h1>
 
 ### Bio
-  My name is Sina. I am 15 years old and live in
+  My name is Sina. I am 16 years old and live in
   <a href="https://en.wikipedia.org/wiki/Iran">𝑰𝒓𝒂𝒏</a>. 
   I am interested in the field of programming and I follow it purposefully and I am learning better programming.
 
