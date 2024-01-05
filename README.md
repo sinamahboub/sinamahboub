@@ -18,15 +18,6 @@
 
 > ### Skills
 > [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,php,mysql,linux,git,github)](https://skillicons.dev)
-> - [X] I know VS Code completely
-> - [X] I know HTML completely
-> - [X] I know CSS completely
-> - [ ] I know JavaScript completely
-> - [ ] I know PHP completely
-> - [X] I know mySQL completely
-> - [ ] I know linux completely
-> - [X] I know Git completely
-> - [X] I know GitHub completely
 
 <br>
 
