@@ -35,6 +35,6 @@
 ### **My Desktop**
 ![My Desktop](https://github.com/sinamahboub/sinamahboub/blob/main/sinaMahboubDesktop2.png)
   
-  #### contact with me : [`Telegram`](https://t.me/sinaMahboub) , [`WhatsApp`](https://wa.me/+989960227278/) , [`Instagram`](https://instagram.com/sinamahboub.js)
+  #### contact with me : [`Telegram`](https://t.me/sinamb12) , [`Instagram`](https://instagram.com/sinamahboub.js)
   
   </div>
