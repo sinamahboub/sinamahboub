@@ -1,31 +1,14 @@
-<div align="center">
-  <h1> → Hi All, Im sinaMahboub ← </h1>
-  
-  </div>
-  
- <br>
-  
-<div>
-  
-> ### Bio
-> My name is Sina. I am 19 years old and live in
-> <a href="https://en.wikipedia.org/wiki/Iran">𝑰𝒓𝒂𝒏</a>. 
-> I am interested in the field of programming and I follow it purposefully and I am learning better programming.
-  
-</div>
+# Sina Mahboub
 
-<br>
+Full-Stack Developer focused on JavaScript, PHP, and Python.
+Based in Karaj, Iran.
 
-> ### Skills
-> [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,php,mysql,linux,git,github)](https://skillicons.dev)
+## Currently
+Building small full-stack projects and improving backend/API skills.
 
-<br>
+## Tech Stack
+JavaScript · PHP · Python · React · Node.js · Django · Laravel · MySQL · Git
 
-<div align="center">
-
-### **My Desktop**
-![My Desktop](https://github.com/sinamahboub/sinamahboub/blob/main/sinaMahboubDesktop2.png)
-  
-  #### contact with me : [`Telegram`](https://t.me/sinamb12) , [`Instagram`](https://instagram.com/sinamhb_)
-  
-  </div>
+## Contact
+- Website: sinamahboub.github.io
+- Telegram: t.me/sinamb12
