@@ -11,4 +11,4 @@ JavaScript · PHP · Python · React · Node.js · Django · Laravel · MySQL ·
 
 ## Contact
 - Website: sinamahboub.github.io
-- Telegram: t.me/sinamb12
+- Telegram: t.me/sinamahboub
