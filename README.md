@@ -1,3 +1,4 @@
 # [ Sina. Mahboub ]
 
-👾 Full-Stack Developer 🐍 Python · PHP · JavaScript
+👾 Full-Stack Developer 🐍 Python · PHP · Node.js
+
